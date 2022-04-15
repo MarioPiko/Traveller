@@ -1,0 +1,113 @@
+{
+    "m_SelectedDeviceId": "a395e8b0",
+    "m_SelectedPackage": {
+        "deviceId": "a395e8b0",
+        "name": "com.MarioPiko.Traveller",
+        "processId": 18044,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "a395e8b0",
+            "name": "com.PeakOGames.BobsWorld",
+            "processId": 29304,
+            "exited": true
+        },
+        {
+            "deviceId": "a395e8b0",
+            "name": "com.PeakOGames.BobsWorld",
+            "processId": 30954,
+            "exited": true
+        },
+        {
+            "deviceId": "a395e8b0",
+            "name": "com.MarioPiko.Traveller",
+            "processId": 9754,
+            "exited": true
+        },
+        {
+            "deviceId": "a395e8b0",
+            "name": "com.android.settings",
+            "processId": 13063,
+            "exited": true
+        },
+        {
+            "deviceId": "a395e8b0",
+            "name": "com.MarioPiko.Traveller",
+            "processId": 14462,
+            "exited": true
+        },
+        {
+            "deviceId": "a395e8b0",
+            "name": "com.miui.home",
+            "processId": 3308,
+            "exited": false
+        },
+        {
+            "deviceId": "a395e8b0",
+            "name": "com.MarioPiko.Traveller",
+            "processId": 15721,
+            "exited": false
+        },
+        {
+            "deviceId": "a395e8b0",
+            "name": "com.MarioPiko.Traveller",
+            "processId": 18044,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}
